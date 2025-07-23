@@ -85,8 +85,8 @@ This separation allows use of the best tool for each job: a fast model for searc
 
 ```bash
 # Clone the repository (replace with your actual URL)
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/AFRAH-AIML/RPA.git
+cd RPA
 
 # Create and activate virtual environment (Windows)
 python -m venv venv
